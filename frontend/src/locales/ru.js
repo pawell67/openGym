@@ -2247,6 +2247,7 @@ export default {
   'Coach wants you back on the bar.': 'Тренер ждёт вас обратно у штанги.',
   'Gentle, for headphones or a quiet room.': 'Тихий, для наушников или спокойного зала.',
   // Import from a video (views/VideoImport.jsx)
+  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'Отдых отсчитывается не там, где работа? Выделите рамкой каждый таймер, до двух.',
   'Add this exercise again': 'Добавить это упражнение ещё раз',
   'As in the video': 'Как в видео',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'Каждое упражнение один раз, а его раунды как подходы: A × 2, B × 2 … Короче, но в другом порядке, чем в видео.',

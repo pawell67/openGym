@@ -2243,6 +2243,7 @@ export default {
   'Coach wants you back on the bar.': '코치가 바 앞으로 돌아오래요.',
   'Gentle, for headphones or a quiet room.': '이어폰이나 조용한 곳에 어울려요.',
   // Import from a video (views/VideoImport.jsx)
+  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': '휴식이 운동과 다른 곳에서 카운트되나요? 각 타이머에 상자를 드래그하세요. 최대 두 개예요.',
   'Add this exercise again': '이 운동 다시 추가',
   'As in the video': '영상과 같게',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': '각 운동을 한 번씩, 라운드는 세트로: A × 2, B × 2 … 더 짧지만 영상과 순서가 달라요.',

@@ -2263,6 +2263,7 @@ export default {
   'Coach wants you back on the bar.': 'Der Coach will dich zurück an der Stange.',
   'Gentle, for headphones or a quiet room.': 'Leise, für Kopfhörer oder einen ruhigen Raum.',
   // Import from a video (views/VideoImport.jsx)
+  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'Pause wird woanders gezählt als die Belastung? Zieh um jeden Timer einen Rahmen, bis zu zwei.',
   'Add this exercise again': 'Diese Übung noch einmal hinzufügen',
   'As in the video': 'Wie im Video',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'Jede Übung einmal, ihre Runden als Sätze: A × 2, B × 2 … Kürzer, aber in anderer Reihenfolge als im Video.',

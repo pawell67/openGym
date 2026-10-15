@@ -2246,6 +2246,7 @@ export default {
   'Coach wants you back on the bar.': 'Az edző visszavár a rúdhoz.',
   'Gentle, for headphones or a quiet room.': 'Halk, fülhallgatóhoz vagy csendes helyre.',
   // Import from a video (views/VideoImport.jsx)
+  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'A pihenőt máshol számolja, mint a munkát? Húzz keretet minden időzítő köré, legfeljebb kettőt.',
   'Add this exercise again': 'Gyakorlat hozzáadása újra',
   'As in the video': 'Mint a videóban',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'Minden gyakorlat egyszer, a körei sorozatként: A × 2, B × 2 … Rövidebb, de más sorrendben, mint a videóban.',
