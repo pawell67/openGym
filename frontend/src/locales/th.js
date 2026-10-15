@@ -2254,7 +2254,7 @@ export default {
   'Coach wants you back on the bar.': 'โค้ชอยากให้คุณกลับมาที่บาร์',
   'Gentle, for headphones or a quiet room.': 'เบา ๆ สำหรับหูฟังหรือห้องที่เงียบ',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'การพักนับอยู่คนละที่กับการออกกำลังหรือไม่? ลากกรอบครอบตัวจับเวลาแต่ละอัน สูงสุดสองอัน',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': 'ตัวจับเวลาอยู่หลายที่หรือไม่ (ช่วงพักอยู่ที่อื่น หรือย้ายตำแหน่งกลางทาง)? ลากกรอบครอบแต่ละอัน สูงสุดสามอัน',
   'Add this exercise again': 'เพิ่มท่านี้อีกครั้ง',
   'As in the video': 'เหมือนในวิดีโอ',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'แต่ละท่าหนึ่งครั้ง โดยนับรอบเป็นเซ็ต: A × 2, B × 2 … สั้นกว่า แต่ลำดับต่างจากวิดีโอ',

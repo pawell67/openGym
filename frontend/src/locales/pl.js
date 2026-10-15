@@ -2243,7 +2243,7 @@ export default {
   'Coach wants you back on the bar.': 'Trener czeka przy sztandze.',
   'Gentle, for headphones or a quiet room.': 'Cichy, do słuchawek albo spokojnego pomieszczenia.',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'Odpoczynek odliczany w innym miejscu niż praca? Zaznacz ramką każdy timer, maksymalnie dwa.',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': 'Timer w więcej niż jednym miejscu (odpoczynek gdzie indziej albo przesunięty w trakcie)? Zaznacz ramką każdy, maksymalnie trzy.',
   'Add this exercise again': 'Dodaj to ćwiczenie ponownie',
   'As in the video': 'Jak w filmie',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'Każde ćwiczenie raz, a jego rundy jako serie: A × 2, B × 2 … Krócej, ale w innej kolejności niż w filmie.',

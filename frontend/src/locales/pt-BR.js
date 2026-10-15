@@ -1404,7 +1404,7 @@ export const PT_BR_OVERRIDES = {
   'Fewer than two workouts in this period. Pick a longer one.': 'Menos de dois treinos neste período. Escolha um mais longo.',
   'Releases are checked on GitHub. The download is verified against its checksum before the installer opens.': 'As versões são verificadas no GitHub. O download é conferido pela soma de verificação antes de abrir o instalador.',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'O descanso é contado em outro lugar que não o do trabalho? Arraste uma caixa em volta de cada timer, até dois.',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': 'Timer em mais de um lugar (o descanso em outro lugar, ou movido no meio do vídeo)? Arraste uma caixa em volta de cada um, até três.',
   'Add this exercise again': 'Adicionar este exercício de novo',
   'As in the video': 'Como no vídeo',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'Cada exercício uma vez, com as rodadas como séries: A × 2, B × 2 … Mais curto, mas numa ordem diferente da do vídeo.',

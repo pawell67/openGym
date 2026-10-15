@@ -2243,7 +2243,7 @@ export default {
   'Coach wants you back on the bar.': '教练等你回到杠铃前。',
   'Gentle, for headphones or a quiet room.': '轻柔，适合耳机或安静的房间。',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': '休息的计时与训练不在同一处？给每个计时器都拖出一个框，最多两个。',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': '计时器出现在多处（休息在别处，或中途移动）？给每个都拖出一个框，最多三个。',
   'Add this exercise again': '再次添加此动作',
   'As in the video': '与视频一致',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': '每个动作只出现一次，轮数作为组数：A × 2、B × 2 … 更短，但顺序与视频不同。',

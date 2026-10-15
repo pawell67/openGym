@@ -2236,7 +2236,7 @@ export default {
   'Coach wants you back on the bar.': '教練等你回到槓鈴前。',
   'Gentle, for headphones or a quiet room.': '輕柔，適合耳機或安靜的房間。',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': '休息的計時與訓練不在同一處？為每個計時器都拖出一個框，最多兩個。',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': '計時器出現在多處（休息在別處，或中途移動）？為每個都拖出一個框，最多三個。',
   'Add this exercise again': '再次新增此動作',
   'As in the video': '與影片一致',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': '每個動作只出現一次，輪數作為組數：A × 2、B × 2 … 更短，但順序與影片不同。',

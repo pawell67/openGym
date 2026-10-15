@@ -2298,7 +2298,7 @@ export default {
   'Coach wants you back on the bar.': 'المدرب يريدك أن تعود إلى البار.',
   'Gentle, for headphones or a quiet room.': 'هادئ، للسماعات أو لغرفة هادئة.',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'هل تُحتسب الراحة في مكان غير مكان العمل؟ اسحب مربعًا حول كل مؤقّت، حتى اثنين.',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': 'هل المؤقّت في أكثر من مكان (الراحة في مكان آخر، أو ينتقل في منتصف الفيديو)؟ اسحب مربعًا حول كل واحد، حتى ثلاثة.',
   'Add this exercise again': 'أضف هذا التمرين مرة أخرى',
   'As in the video': 'كما في الفيديو',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'كل تمرين مرة واحدة، وجولاته كمجموعات: A × 2، B × 2 … أقصر، لكن بترتيب مختلف عن الفيديو.',

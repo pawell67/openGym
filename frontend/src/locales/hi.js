@@ -2243,7 +2243,7 @@ export default {
   'Coach wants you back on the bar.': 'कोच आपको बार पर वापस चाहते हैं।',
   'Gentle, for headphones or a quiet room.': 'धीमी, हेडफ़ोन या शांत कमरे के लिए।',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'आराम की गिनती काम से अलग जगह होती है? हर टाइमर के चारों ओर एक बॉक्स खींचें, अधिकतम दो।',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': 'टाइमर एक से ज़्यादा जगह है (आराम कहीं और, या बीच में खिसक जाता है)? हर एक के चारों ओर एक बॉक्स खींचें, अधिकतम तीन।',
   'Add this exercise again': 'यह व्यायाम फिर से जोड़ें',
   'As in the video': 'वीडियो जैसा',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'हर व्यायाम एक बार, उसके राउंड सेट के रूप में: A × 2, B × 2 … छोटा, लेकिन वीडियो से अलग क्रम में।',

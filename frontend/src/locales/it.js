@@ -2243,7 +2243,7 @@ export default {
   'Coach wants you back on the bar.': 'Il coach ti vuole di nuovo al bilanciere.',
   'Gentle, for headphones or a quiet room.': 'Delicato, per le cuffie o una stanza silenziosa.',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'Il recupero è contato altrove rispetto al lavoro? Trascina un riquadro attorno a ogni timer, fino a due.',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': 'Timer in più di un punto (il recupero altrove, o spostato a metà)? Trascina un riquadro attorno a ciascuno, fino a tre.',
   'Add this exercise again': 'Aggiungi di nuovo questo esercizio',
   'As in the video': 'Come nel video',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'Ogni esercizio una volta, con i suoi giri come serie: A × 2, B × 2 … Più breve, ma in un ordine diverso da quello del video.',

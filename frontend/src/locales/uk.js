@@ -2240,7 +2240,7 @@ export default {
   'Coach wants you back on the bar.': 'Тренер чекає вас назад біля штанги.',
   'Gentle, for headphones or a quiet room.': 'Тихий, для навушників або спокійної кімнати.',
   // Import from a video (views/VideoImport.jsx)
-  'Rest counted somewhere else than the work? Drag a box around each timer, up to two.': 'Відпочинок відліковується не там, де робота? Виділи рамкою кожен таймер, до двох.',
+  'Timer in more than one place (the rest elsewhere, or moved part-way)? Drag a box around each, up to three.': 'Таймер у кількох місцях (відпочинок деінде або зсувається посеред відео)? Виділи рамкою кожен, до трьох.',
   'Add this exercise again': 'Додати цю вправу ще раз',
   'As in the video': 'Як у відео',
   'Each exercise once, with its rounds as sets: A × 2, B × 2 … Shorter, but in a different order than the video.': 'Кожна вправа один раз, а її раунди як підходи: A × 2, B × 2 … Коротше, але в іншому порядку, ніж у відео.',
